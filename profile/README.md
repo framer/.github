@@ -1,3 +1,3 @@
 # Framer
 
-Yooo, this is Ben
+Ship sites with style.
